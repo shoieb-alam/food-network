@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+h2{
+    font-size: 30px;
+}
+.light-blue{
+    color: rgb(98, 135, 255);
+}
+.half-width{
+    width: 50%;
+    padding: 5% 2% 5% 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    background-image: linear-gradient(to right, rgba(97, 94, 243, 0.856), rgb(7, 38, 180));
+    color: white;
+    padding: 15px 40px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 10px 5px rgba(214, 214, 226, 0.637);
+}
+.first-paragraph{
+    padding: 5% 0%;
+}
+.section1{
+    display: flex;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+.section2{
+    display: flex;
+    color: rgba(0, 0, 0, 0.637);
+    background-image: url(../images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.about-paragraph{
+    padding: 2% 20% 15% 0%;
+}
+.ash-word{
+    color: gray;
+}
+.section3{
+    text-align: center;
+    margin: 5%;
+}
+.recipy-description{
+    padding: 0% 20%;
+}
+.recipie-items{
+    display: flex;
+}
+.recipie-title{
+    width: 30%;
+    margin: 2% 2% 10% 2%;
+    padding: 2% 2%;
+    box-shadow: 5px 5px 30px rgb(209, 206, 255);
+    border-radius: 5%;
+    text-align: left;
+    
+}   
+.recipie-title img{
+    width: 100%;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: rgb(26, 26, 26);
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
